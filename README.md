@@ -1,5 +1,7 @@
 # Weekend Four Solution
 
-Code as presented during the walkthrough in class.
+Converted Weekend solution from jquery to angular.
+
+branch angular has the result.
 
 Run `npm install` first!
